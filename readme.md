@@ -1,5 +1,5 @@
 
-
+# CA3-PROJECT
 ## Installation
 
 1. Clone the repo and `cd` into it
@@ -30,6 +30,5 @@
 
 
 1. Clone the repo and `cd` into it
-1. `git checkout f4f651a8a35ebb2ff38ba15771fd65c93051f942`
-1. Follow the rest of the steps above. Instead of `php artisan ecommerce:install`, migrate and seed the normal way with `php artisan migrate --seed`
-# CA3-PROJECT
+1. `git checkout f4f651a8a35ebb2ff38ba15771fd65c93051f947772`
+ Instead of `php artisan ecommerce:install`, migrate and seed the normal way with `php artisan migrate --seed`
